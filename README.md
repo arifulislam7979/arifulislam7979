@@ -8,25 +8,27 @@
 
 # 👋 Hi, I'm Ariful Islam
 
-### 🚀 Frontend Developer | React & Next.js
+### 🚀 Full Stack Developer | Learning & Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Exploring+Full-Stack+Development;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications;Learning+%26+Building+Real-World+Projects;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate Full Stack Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
 
-I started my journey with JavaScript and gradually moved into TypeScript, React, and Next.js. Currently, I'm focusing on building real-world projects and improving my frontend and full-stack development skills.
+I started my journey with HTML, CSS, and JavaScript and gradually moved into TypeScript, React, and Next.js. Currently, I'm expanding my skills into backend development and focusing on building full-stack applications with modern technologies.
 
-* 🔭 I'm currently exploring **Next.js**
-* 🌱 I'm learning **Authentication & Full-Stack Development**
-* 💻 I'm building projects with **React, Next.js & TypeScript**
-* 🧩 I'm practicing **API integration, data fetching and state management**
-* 🚀 I'm working on improving my **problem-solving skills**
-* 📚 I enjoy learning new technologies by building projects
-* 🎯 My goal is to become a **Full-Stack Developer**
+* 🔭 I'm currently building projects with **React & Next.js**
+* 🌱 I'm learning **Full-Stack Development**
+* 🔐 I'm learning **Authentication & Authorization**
+* 💻 I'm working with **TypeScript, Node.js & MongoDB**
+* 🌐 I'm practicing **REST APIs & API Integration**
+* 🧩 I'm improving my **Data Fetching & State Management** skills
+* 🚀 I'm continuously improving my **Problem-Solving Skills**
+* 📚 I enjoy learning new technologies by building real-world projects
+* 🎯 My goal is to become a skilled **Full-Stack Developer**
 
 ---
 
@@ -55,13 +57,16 @@ I started my journey with JavaScript and gradually moved into TypeScript, React,
 ## 🚀 Current Focus
 
 * ⚛️ Building projects with **React**
-* ▲ Developing applications with **Next.js**
+* ▲ Developing modern applications with **Next.js**
 * 🔷 Writing scalable code with **TypeScript**
-* 🔐 Learning **Authentication**
+* 🔐 Learning **Authentication & Authorization**
 * 🌐 Working with **REST APIs**
-* 📦 Learning better **state management**
+* 🗄️ Learning **MongoDB & Database Management**
+* 🟢 Exploring **Node.js & Backend Development**
+* 📦 Learning better **State Management**
 * ☁️ Learning deployment with **Vercel**
-* 🧑‍💻 Exploring **Full-Stack Development**
+* 🧑‍💻 Building **Full-Stack Applications**
+* 🛠️ Improving **Problem-Solving & Clean Code**
 
 ---
 
@@ -165,6 +170,8 @@ A modern book management application built with Next.js.
 ## 🧠 Learning Journey
 
 ```text
+HTML & CSS
+    ↓
 JavaScript
     ↓
 TypeScript
@@ -173,42 +180,16 @@ React
     ↓
 React Router
     ↓
-API & Data Fetching
+API Integration & Data Fetching
     ↓
 Next.js
     ↓
 Authentication
     ↓
+Node.js
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
 Full-Stack Development
-```
-
----
-
-## 🎯 2026 Goals
-
-* [x] Learn JavaScript
-* [x] Learn TypeScript
-* [x] Learn React
-* [x] Learn Next.js Basics
-* [x] Build More Real-World Projects
-* [x] Learn Authentication
-* [ ] Learn Backend Development
-* [ ] Learn Databases
-* [ ] Build Full-Stack Applications
-* [ ] Become a Full-Stack Developer
-
----
-
-## ⚡ Fun Fact
-
-> I learn best by building projects, breaking things, fixing them, and building them again. 🚀
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🙌</b>
-</p>
-
-<p align="center">
-  <i>Always Learning • Always Building • Always Improving</i>
-</p>
