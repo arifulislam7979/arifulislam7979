@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./banner-img.png"
+    src="./new-bannar-github.png"
     alt="Ariful Islam GitHub Banner"
     width="100%"
   />
